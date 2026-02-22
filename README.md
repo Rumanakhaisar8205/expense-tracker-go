@@ -41,6 +41,7 @@ This system allows:
 
 ## 📁 Project Structure
 
+```text
 expense-tracker-go/
 │
 ├── main.go
