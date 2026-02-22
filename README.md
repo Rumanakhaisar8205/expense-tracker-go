@@ -48,31 +48,30 @@ expense-tracker-go/
 ├── README.md
 │
 ├── config/
-│ └── db.go
+│   └── db.go
 │
 ├── models/
-│ ├── user.go
-│ ├── group.go
-│ ├── expense.go
-│ └── expense_share.go
+│   ├── user.go
+│   ├── group.go
+│   ├── expense.go
+│   └── expense_share.go
 │
 ├── controllers/
-│ ├── user_controller.go
-│ ├── group_controller.go
-│ ├── expense_controller.go
-│ └── settlement_controller.go
+│   ├── user_controller.go
+│   ├── group_controller.go
+│   ├── expense_controller.go
+│   └── settlement_controller.go
 │
 ├── algorithm/
-│ └── settlement.go
+│   └── settlement.go
 │
 ├── docs/
-│ ├── settlement.md
-│ ├── money_handling.md
-│ └── examples.md
+│   ├── settlement.md
+│   ├── money_handling.md
+│   └── examples.md
 │
 └── prompts/
-└── AI_Assistance_Log.md
-
+    └── AI_Assistance_Log.md
 
 ---
 
@@ -245,8 +244,11 @@ C → A : 400
 **👤 Author**
 
 Rumana
-Capstone Project – Infosys Springboard
-February 2026
+GitHub :https://github.com/Rumanakhaisar8205
+
+Capstone Project 
+– Infosys Springboard 22 February 2026
+
 
 **📜 License**
 
