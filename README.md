@@ -73,6 +73,7 @@ expense-tracker-go/
 └── prompts/
     └── AI_Assistance_Log.md
 
+
 ---
 
 ## 🗄️ Database Schema
@@ -243,12 +244,11 @@ C → A : 400
 
 **👤 Author**
 
-Rumana
-GitHub :https://github.com/Rumanakhaisar8205
+Rumanakhaisar Pattankudi
 
-Capstone Project 
-– Infosys Springboard 22 February 2026
-
+Capstone Project
+**GitHub:**: `https://github.com/Rumanakhaisar8205 `
+- Infosys Springboard 22 February 2026
 
 **📜 License**
 
@@ -258,4 +258,4 @@ This project is developed for academic purposes.
 
 - Infosys Springboard for guidance
 - Go Community
-- PostgreSQL Documentation
+- PostgreSQL Documentation# expense-tracker-go
